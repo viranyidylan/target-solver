@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CuttingEdgeProject.vcxproj, DifferentApproach.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\dylan\source\repos\targetsolver\main.cpp(8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DifferentApproach.vcxproj -> C:\Users\dylan\source\repos\TargetSolver\x64\Debug\TargetSolver.exe
+  DifferentApproach.vcxproj -> C:\Users\dylan\source\repos\TargetSolver\x64\Debug\TargetSolver.pdb (Partial PDB)
